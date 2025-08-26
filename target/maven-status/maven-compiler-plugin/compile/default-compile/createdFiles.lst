@@ -1,0 +1,9 @@
+one\digitalinnovation\gof\model\Cliente.class
+one\digitalinnovation\gof\Application.class
+one\digitalinnovation\gof\strategy\EntregaCarro.class
+one\digitalinnovation\gof\service\ClienteService.class
+one\digitalinnovation\gof\strategy\EntregaBicicleta.class
+one\digitalinnovation\gof\strategy\Entrega.class
+one\digitalinnovation\gof\controller\ClienteController.class
+one\digitalinnovation\gof\strategy\EntregaDrone.class
+one\digitalinnovation\gof\strategy\EntregaStrategy.class
