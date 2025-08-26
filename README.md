@@ -1,6 +1,6 @@
 # Lab Design Patterns - Strategy Pattern
 
-Este projeto é um exemplo de uso do **Strategy Pattern** em Java com Spring Boot, adaptado para um cenário de **entregas**. O Objetivo é aprender melhor sobre o uso de Design Patterns.
+###Este projeto é um exemplo de uso do **Strategy Pattern** em Java com Spring Boot, adaptado para um cenário de **entregas**. O Objetivo é aprender melhor sobre o uso de Design Patterns.
 ---
 
 ## Estrutura do Projeto
